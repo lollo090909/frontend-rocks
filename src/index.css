@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
 body {
-  background-image: url('/geodude-pattern.png');
+  background-color: "white";
   background-repeat: repeat;
 }
